@@ -1,65 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,15,30&height=220&section=header&text=Rushan%20Avishka&fontSize=48&fontAlignY=40&desc=IT%20Professional%20%7C%20Software%20Developer&descAlignY=65&descSize=18&fontColor=ffffff" width="100%"/>
+<h1 align="left">📊 Workspace: Rushan Avishka</h1>
 
-<div align="center">
-  <br>
+> **Role:** IT Professional & Project Associate | **Status:** 🟢 Active & Developing | **Base:** Sri Lanka 🇱🇰
+
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Innovative+Software+Developer;Expert+in+Full-Stack+%26+UI%2FUX;Passionate+about+AI+%26+Modern+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=1000&color=8B949E&vCenter=true&width=600&lines=Executing+Sprint:+Full-Stack+Development;Tracking+Task:+AI+Integration+%26+Automation;Reviewing:+Modern+UI%2FUX+Architecture;Status:+Deploying+Innovative+Solutions..." alt="Task Status" />
   </a>
-</div>
-
-<div align="center">
-  <a href="mailto:rushanavishka4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0052cc?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/RushanAvishka"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
-
----
-
-### 👨‍💼 Professional Summary
-
-I am a dedicated **IT Professional and Software Developer** based in Sri Lanka, specializing in creating dynamic, user-centric web applications and exploring the integration of AI in modern tech solutions. With a strong foundation in full-stack development, UI/UX design, and project coordination, I am driven by a passion for turning complex problems into elegant, scalable digital products. 
-
-- 🌍 **Location:** Sri Lanka 🇱🇰
-- 💼 **Current Focus:** Full-Stack Web Development, AI Integration, UI/UX Design
-- 🚀 **Key Projects:** Developing an AI-powered LMS Video Summarizer & building modern, aesthetically driven professional web applications.
-- 🤝 **Looking for:** Professional collaborations, tech partnerships, and innovative development ventures.
-
----
-
-### 🛠️ Technical Expertise
-
-**💻 Core Languages & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,js,nodejs,dotnet,cs,java,html,css,php&theme=dark" />
-</p>
-
-**🗄️ Databases & Cloud**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,sqlite&theme=dark" />
-</p>
-
-**🎨 Design & Engineering Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,figma,ps,illustrator,blender&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+### 📋 Dashboard Overview
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RushanAvishka&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&ring_color=3B82F6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushanAvishka&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushanAvishka&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E" />
-</div>
+| 👤 User Profile | 🎯 Core Objective |
+| :--- | :--- |
+| **Contact:** rushanavishka4@gmail.com <br> **Socials:** [Instagram](https://instagram.com/ruu_shan07) \| [YouTube](http://www.youtube.com/@ruutraval) <br> **Focus:** Full-Stack Dev, AI, UI/UX | Coordinating and developing innovative software solutions, seamlessly integrating AI and full-stack architecture with high-end, minimalist visual aesthetics. |
 
 ---
 
-<div align="center">
-  <i>Crafting robust software architectures with a keen eye for visual aesthetics.</i>
-</div>
+### 🚀 Active Sprint & Project Backlog
+
+```markdown
+[x] TASK-01: Exotic Cars Daily USA
+    Status: Completed | Scope: Brand development and visual identity setup for luxury automotive content.
+
+[x] TASK-02: SLIIT Aptitude Integration
+    Status: Completed | Scope: Higher education readiness and assessment clearance.
+
+[~] TASK-03: AI-Powered LMS Video Summarizer
+    Status: In Progress | Stack: React, Python, Firebase | Scope: Automating video content summarization using AI.
+
+[~] TASK-04: Professional Portfolio Web Application
+    Status: In Progress | Scope: Architecting a hybrid platform highlighting code structure and modern design.
+
+[ ] TASK-05: Modern Workspace Setup
+    Status: Backlog | Scope: Interior redesign focusing on clean, modern, and minimalist aesthetics.
